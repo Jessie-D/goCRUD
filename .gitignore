@@ -1,0 +1,9 @@
+.DS_Store
+/log/info/*
+/log/error/*
+.idea/
+/data/data
+/data/cover.out
+uic-pools
+.vscode
+debug
